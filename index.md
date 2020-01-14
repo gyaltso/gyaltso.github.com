@@ -13,13 +13,9 @@ We have worked with many product development companies in India, and helped them
 
 ### Clients
 
-##### Classroom trainings
+Classroom trainings - Nokia, Robert Bosch, Tata Consultancy Services (TCS), Tata Elxsi, KPIT, Cleo, GoldenSource, Atos Syntel, Bureau Veritas.
 
-Nokia, Robert Bosch, Tata Consultancy Services (TCS), Tata Elxsi, KPIT, Cleo, GoldenSource, Atos Syntel, Bureau Veritas.
-
-##### Virtual sessions, Workshops
-
-IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Ancit Consulting.
+Virtual workshops - IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Ancit Consulting.
 
 ### Training feedback
 
