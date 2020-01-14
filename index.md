@@ -2,18 +2,18 @@
 
 Gyaltso Technologies is a technology startup that focuses specifically on providing highly specialized Training and Consulting services on various Eclipse Technologies, namely, Eclipse Rich Client Platform (RCP) and Plug-in development, Xtext, Eclipse Modeling Framework (EMF), and Sirius.
 
-We have worked with many product development companies in India, and helped them rapidly bring their teams up to speed on various Eclipse technologies. Our work has been greatly appreciated by our customers, and we are the favorite training and consulting partners when it comes to Eclipse technology.
+We have worked with many product development companies in India, and helped them rapidly bring their teams up to speed on various Eclipse technologies. Our work has been greatly appreciated by our customers, and we are the favorite Training and Consulting partners when it comes to Eclipse technology.
 
 ### Services
 
 - Classroom style training
 - Virtual/Online training
 - Post training support
-- Eclipse Product development and maintanence
+- Eclipse Product development and maintanence.
 
 ### Clients
 
-Nokia, Robert Bosch, Tata Consultancy Services (TCS), Tata Elxsi, KPIT, Cleo, GoldenSource, Syntel, Bureau Veritas.
+Nokia, Robert Bosch, Tata Consultancy Services (TCS), Tata Elxsi, KPIT, Cleo, GoldenSource, Atos Syntel, Bureau Veritas.
 
 ### Training feedback
 
@@ -25,10 +25,7 @@ Nokia, Robert Bosch, Tata Consultancy Services (TCS), Tata Elxsi, KPIT, Cleo, Go
 > It was a great experience and I learned a lot about the eclipse and its plug-in development capabilities. The workshop was full of knowledge and hands-on experience
 > was quite impressive _– Tarun Joshi, Syntel India_
 
-> The workshop was really good. It was helpful and we could relate much of it to our project requirements. The trainer also gave us direction and a lot of RCP tips
-> _– Niteen Magar, Syntel India_
-
-> The trainer covered more than expected. Really great experience _– Sumeet Katariya, Syntel India_
+> The workshop was really good. It was helpful and we could relate much of it to our project requirements. The trainer also gave us direction and a lot of tips on Eclipse RCP _– Niteen Magar, Syntel India_
 
 ### Contact
 
