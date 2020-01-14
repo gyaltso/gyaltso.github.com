@@ -31,4 +31,4 @@ Virtual training - IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Anci
 
 ### Contact
 
-For more details, please email us at [info@gyaltso.com](info@gyaltso.com)
+For more details, please email us at **info@gyaltso.com**
