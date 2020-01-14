@@ -20,7 +20,7 @@ Nokia, Robert Bosch, Tata Consultancy Services (TCS), Tata Elxsi, KPIT, Cleo, Go
 > One of the best, most useful workshops I’ve ever had, seriously! I think there are so many folks like me who kind of were thrown into it and didn’t get a great basic > foundation. Basic is good, and the trainer presented it so clearly and with purpose. Thanks for the training!!!
 > _– Hemal Bavishi, Principal Architect, AVIN Systems_
 
-> It was an excellent hands-on workshop which greatly helped in kickstarting my development activities. The trainer presented with great clarity and focus. Thanks for > the training _– Shashwat Anand, Majesco – Mastek_
+> It was an excellent hands-on workshop which greatly helped in kickstarting my development activities. The trainer presented with great clarity and focus. Thanks for the training _– Shashwat Anand, Majesco – Mastek_
 
 > It was a great experience and I learned a lot about the eclipse and its plug-in development capabilities. The workshop was full of knowledge and hands-on experience
 > was quite impressive _– Tarun Joshi, Syntel India_
