@@ -2,4 +2,5 @@ title: Gyaltso Technologies
 description: Eclipse training and consulting
 show_downloads: false
 google_analytics:
+is_project_page: false
 theme: jekyll-theme-modernist
