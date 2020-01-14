@@ -13,9 +13,9 @@ We have worked with many product development companies in India, and helped them
 
 ### Clients
 
-Classroom trainings - Nokia, Robert Bosch, Tata Consultancy Services (TCS), Tata Elxsi, KPIT, Cleo, GoldenSource, Atos Syntel, Bureau Veritas.
+Classroom training - Nokia, Robert Bosch, Tata Consultancy Services (TCS), Tata Elxsi, KPIT, Cleo, GoldenSource, Atos Syntel, Bureau Veritas.
 
-Virtual workshops - IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Ancit Consulting.
+Virtual training - IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Ancit Consulting.
 
 ### Training feedback
 
@@ -24,7 +24,7 @@ Virtual workshops - IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Anc
 
 > It was an excellent hands-on workshop which greatly helped in kickstarting my development activities. The trainer presented with great clarity and focus. Thanks for the training _– Shashwat Anand, Majesco – Mastek_
 
-> It was a great experience and I learned a lot about the eclipse and its plug-in development capabilities. The workshop was full of knowledge and hands-on experience
+> It was a great experience. I learned a lot about the Eclipse and its Plug-in development capabilities. The workshop was full of knowledge, and hands-on experience
 > was quite impressive _– Tarun Joshi, Syntel India_
 
 > The workshop was really good. It was helpful and we could relate much of it to our project requirements. The trainer also gave us direction and a lot of tips on Eclipse RCP _– Niteen Magar, Syntel India_
