@@ -11,11 +11,9 @@ We have worked with many product development companies in India, and helped them
 - Post training support
 - Eclipse Product development and maintanence.
 
-### Clients
+### Training Schedules
 
-Classroom training - Nokia, Robert Bosch, Tata Consultancy Services (TCS), Tata Elxsi, KPIT, Cleo, GoldenSource, Atos Syntel, Bureau Veritas.
-
-Virtual training - IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Ancit Consulting.
+https://github.com/gyaltso/Eclipse-Training-Schedules/tree/master/schedules
 
 ### Training feedback
 
@@ -28,6 +26,12 @@ Virtual training - IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Anci
 > was quite impressive _– Tarun Joshi, Syntel India_
 
 > The workshop was really good. It was helpful and we could relate much of it to our project requirements. The trainer also gave us direction and a lot of tips on Eclipse RCP _– Niteen Magar, Syntel India_
+
+### Clients
+
+Classroom training - Nokia, Robert Bosch, Tata Consultancy Services (TCS), Tata Elxsi, KPIT, Cleo, GoldenSource, Atos Syntel, Bureau Veritas.
+
+Virtual training - IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Ancit Consulting.
 
 ### Contact
 
