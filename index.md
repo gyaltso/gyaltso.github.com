@@ -17,7 +17,7 @@ https://github.com/gyaltso/Eclipse-Training-Schedules/tree/master/schedules
 
 ### Upcoming Trainings
 
-####Altran Bangalore - 19'th - 22'nd March 2020
+#### Altran Bangalore - 19'th - 22'nd March 2020
 
 ### Clients
 
