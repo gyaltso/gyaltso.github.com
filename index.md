@@ -11,9 +11,9 @@ We have worked with many product development companies in India, and helped them
 - Post training support
 - Eclipse Product development and maintanence.
 
-### Training Schedules
+### Schedule
 
-[Eclipse-Training-Schedules](https://github.com/gyaltso/Eclipse-Training-Schedules/tree/master/schedules)
+[Eclipse Training Schedules - RCP, Plug-in development, EMF, Xtext, and Sirius](https://github.com/gyaltso/Eclipse-Training-Schedules/tree/master/schedules)
 
 ### Clients
 
@@ -35,9 +35,9 @@ Virtual training - IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Anci
 
 ### Upcoming Trainings
 
-| Client                  | Topics                                                   | Dates                    |
-| :---------------------- | :------------------------------------------------------- | :----------------------- |
-| Altran, Bangalore India | Eclipse RCP, Plug-in development, Eclipse EMF and Sirius | 19'th - 22'nd March 2020 |
+| Client                   | Topics                                                                         | Dates                    |
+| :----------------------- | :----------------------------------------------------------------------------- | :----------------------- |
+| Altran, Bangalore, India | Eclipse RCP, Plug-in development, Eclipse Modeling Framework (EMF), and Sirius | 19'th - 22'nd March 2020 |
 
 ### Contact
 
