@@ -11,9 +11,9 @@ We have worked with many product development companies in India, and helped them
 - Post training support
 - Eclipse Product development and maintanence.
 
-### Schedule
+### Course content
 
-[Eclipse Training Schedules - RCP, Plug-in development, EMF, Xtext, and Sirius](https://github.com/gyaltso/Eclipse-Training-Schedules/tree/master/schedules)
+[Eclispe RCP, Plug-in development, EMF, Xtext, and Sirius course content](https://github.com/gyaltso/Eclipse-Training-Schedules/tree/master/schedules)
 
 ### Clients
 
