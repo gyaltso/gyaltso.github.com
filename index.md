@@ -13,7 +13,9 @@ We have worked with many product development companies in India, and helped them
 
 ### Course content
 
-[Eclispe RCP, Plug-in development, EMF, Xtext, and Sirius course content](https://github.com/gyaltso/Eclipse-Training-Schedules/tree/master/schedules)
+[Agenda - Eclispe RCP, Plug-in development, EMF, Xtext, and Sirius](https://github.com/gyaltso/Eclipse-Training-Schedules)  
+[Source code - Eclispe RCP, Plug-in development, EMF, Xtext, and Sirius Source code](https://github.com/gyaltso/Eclipse-Training-Sources)  
+[Slides - Eclispe RCP, Plug-in development, EMF, Xtext, and Sirius Source code](https://github.com/gyaltso/Eclipse-Training-Slides)
 
 ### Clients
 
