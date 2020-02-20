@@ -38,7 +38,7 @@ Virtual training - IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Anci
 | Client                    | Topics                                                                         | Dates                    |
 | :------------------------ | :----------------------------------------------------------------------------- | :----------------------- |
 | Altran, Bangalore, India  | Eclipse RCP, Plug-in development, Eclipse Modeling Framework (EMF), and Sirius | 19'th - 22'nd March 2020 |
-| CitiusTech, Mumbai, India | Eclipse RCP, Plug-in development                                               | TBD                      |
+| CitiusTech, Mumbai, India | Eclipse RCP, Plug-in development                                               | 5'th - 7'th March 2020   |
 
 ### Contact
 
