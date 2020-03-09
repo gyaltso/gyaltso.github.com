@@ -2,7 +2,7 @@
 
 Gyaltso Technologies is a technology startup that focuses on providing highly specialized training and consulting services on various Eclipse Technologies, namely, Eclipse Rich Client Platform (RCP) and Plug-in development, Xtext, Eclipse Modeling Framework (EMF), and Sirius.
 
-We have worked with many product development companies in India, and helped them rapidly bring their teams up to speed on various Eclipse technologies. Our work has been greatly appreciated by our customers, and we are the favorite training and consulting partners when it comes to Eclipse technology.
+We have worked with many product development companies in India and helped them rapidly bring their teams up to speed on various Eclipse technologies. Our customers have greatly appreciated our work, and we are the favorite training and consulting partners when it comes to Eclipse technology.
 
 ### Services
 
