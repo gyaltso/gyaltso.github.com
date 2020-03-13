@@ -23,8 +23,7 @@ Virtual training - IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Anci
 
 ### Training feedback
 
-> One of the best, most useful workshops I’ve ever had, seriously! I think there are so many folks like me who kind of were thrown into it and didn’t get a great basic > foundation. Basic is good, and the trainer presented it so clearly and with purpose. Thanks for the training!!!
-> _– Hemal Bavishi, Principal Architect, AVIN Systems_
+> One of the best, most useful workshops I’ve ever had, seriously! I think there are so many folks like me who kind of were thrown into it and didn’t get a great basic foundation. Basic is good, and the trainer presented it so clearly and with purpose. Thanks for the training!!! _– Hemal Bavishi, Principal Architect, AVIN Systems_
 
 > It was an excellent hands-on workshop which greatly helped in kickstarting my development activities. The trainer presented with great clarity and focus. Thanks for the training _– Shashwat Anand, Majesco – Mastek_
 
@@ -32,6 +31,8 @@ Virtual training - IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Anci
 > was quite impressive _– Tarun Joshi, Syntel India_
 
 > The workshop was really good. It was helpful and we could relate much of it to our project requirements. The trainer also gave us direction and a lot of tips on Eclipse RCP _– Niteen Magar, Syntel India_
+
+> The trainer has good knowledge of the various Eclipse technologies, and the style in which he conducted the course was quite effective. The workshop did help me in expanding my understanding of Eclipse RCP and Plug-in development _- Dhananjay Shirke, Tech lead, CitiusTech_
 
 ### Upcoming Trainings
 
