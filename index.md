@@ -33,13 +33,15 @@ Virtual training - IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Anci
 
 > The trainer has good knowledge of the various Eclipse technologies, and the style in which he conducted the course was quite useful. The workshop did help me in expanding my understanding of Eclipse RCP and Plug-in development _- Dhananjay Shirke, Tech lead, CitiusTech_
 
+> Neeraj was extremely helpful in getting our work done. It was a last minute solution that we sought help with, and his expertise and support came a great help for our efforts. Overall a fantastic developer. Five stars anytime! - Parthiban NS (UpWork)
+
 ### Upcoming Trainings
 
-| Client                       | Topics                                                                             | Dates                        | Completion status |
-| :--------------------------- | :--------------------------------------------------------------------------------- | :--------------------------- | :---------------- |
-| CitiusTech, Mumbai, India    | Eclipse RCP, Plug-in development                                                   | 5'th - 7'th March 2020       | Completed         |
-| ~~Altran, Bangalore, India~~ | ~~Eclipse RCP, Plug-in development, Eclipse Modeling Framework (EMF), and Sirius~~ | ~~19'th - 22'nd March 2020~~ | ~~Cancelled~~     |
-| Virtual | Eclipse RCP, Plug-in development, Eclipse Modeling Framework (EMF), Xtext and Sirius| 13/06/2020 - 25/07/2020| In progress    |
+| Client                       | Topics                                                                               | Dates                        | Completion status |
+| :--------------------------- | :----------------------------------------------------------------------------------- | :--------------------------- | :---------------- |
+| CitiusTech, Mumbai, India    | Eclipse RCP, Plug-in development                                                     | 5'th - 7'th March 2020       | Completed         |
+| ~~Altran, Bangalore, India~~ | ~~Eclipse RCP, Plug-in development, Eclipse Modeling Framework (EMF), and Sirius~~   | ~~19'th - 22'nd March 2020~~ | ~~Cancelled~~     |
+| Virtual                      | Eclipse RCP, Plug-in development, Eclipse Modeling Framework (EMF), Xtext and Sirius | 13/06/2020 - 25/07/2020      | In progress       |
 
 ### Contact
 
