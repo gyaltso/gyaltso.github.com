@@ -4,12 +4,15 @@ Gyaltso Technologies is a technology startup that focuses on providing highly sp
 
 We have worked with many product development companies in India and helped them rapidly bring their teams up to speed on various Eclipse technologies. Our customers have greatly appreciated our work, and we are the favorite training and consulting partners when it comes to Eclipse technology.
 
+Besides Eclipse development, we actively engage in developing of Low code platforms. We are working on a product named [Ladu](https://github.com/gyaltso/Ladu) that can help in rapid development and maintenance of enterprise applications.
+
 ### Services
 
 - Classroom style training
 - Virtual/Online training
 - Post training support
-- Eclipse Product development and maintanence.
+- Eclipse Product development and maintanence
+- Low-code/No-code platform development.
 
 ### Course content
 
