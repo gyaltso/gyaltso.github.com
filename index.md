@@ -42,6 +42,7 @@ Virtual training - IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Anci
 
 | Client                       | Topics                                                                             | Dates                        | Completion status |
 | :--------------------------- | :--------------------------------------------------------------------------------- | :--------------------------- | :---------------- |
+| Rocket Software, Pune, India | Eclipse RCP, Plug-in development, RAP, and E4 introduction                         | 5'th - 8'th April 2021       | Scheduled         |
 | CitiusTech, Mumbai, India    | Eclipse RCP, Plug-in development                                                   | 5'th - 7'th March 2020       | Completed         |
 | ~~Altran, Bangalore, India~~ | ~~Eclipse RCP, Plug-in development, Eclipse Modeling Framework (EMF), and Sirius~~ | ~~19'th - 22'nd March 2020~~ | ~~Cancelled~~     |
 | Virtual                      | Eclipse RCP, Plug-in development, Eclipse Modeling Framework (EMF), Xtext          | 13/06/2020 - 25/07/2020      | Completed         |
