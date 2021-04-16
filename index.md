@@ -22,9 +22,11 @@ Besides Eclipse development, we actively engage in developing of Low code platfo
 
 Classroom training - Nokia, Robert Bosch, Tata Consultancy Services (TCS), Tata Elxsi, KPIT, Cleo, GoldenSource, Atos Syntel, Bureau Veritas, CitiusTech.
 
-Virtual training - IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Ancit Consulting.
+Virtual training - IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Ancit Consulting, Rocket Software.
 
 ### Training feedback
+
+> Thanks for the RCP training. The team found the training very useful, they are now much more knowledgeable about the Eclipse platform and its capabilities. The extensive hand-on exercises will help them in their development work - _Mukul Seth, Senior Product development manager, Rocket Software_
 
 > One of the best, most useful workshops I have ever had, seriously! I think there are so many folks like me who kind of were thrown into it and didn't get a great basic foundation. Basic is good, and the trainer presented it so clearly and with purpose. Thanks for the training!!! _– Hemal Bavishi, Principal Architect, AVIN Systems_
 
@@ -40,12 +42,13 @@ Virtual training - IBM, AVIN Systems, Sapient, Majesco – Mastek, Aricent, Anci
 
 ### Upcoming Trainings
 
-| Client                       | Topics                                                                             | Dates                        | Completion status |
-| :--------------------------- | :--------------------------------------------------------------------------------- | :--------------------------- | :---------------- |
-| Rocket Software, Pune, India | Eclipse RCP, Plug-in development, RAP, and E4 introduction                         | 5'th - 8'th April 2021       | Scheduled         |
-| CitiusTech, Mumbai, India    | Eclipse RCP, Plug-in development                                                   | 5'th - 7'th March 2020       | Completed         |
-| ~~Altran, Bangalore, India~~ | ~~Eclipse RCP, Plug-in development, Eclipse Modeling Framework (EMF), and Sirius~~ | ~~19'th - 22'nd March 2020~~ | ~~Cancelled~~     |
-| Virtual                      | Eclipse RCP, Plug-in development, Eclipse Modeling Framework (EMF), Xtext          | 13/06/2020 - 25/07/2020      | Completed         |
+| Client                       | Topics                                                                             | Dates                                 | Completion status |
+| :--------------------------- | :--------------------------------------------------------------------------------- | :------------------------------------ | :---------------- |
+| IBM, Pune, India             | Eclipse RCP, Plug-in development, and E4 introduction                              | 19'th, 20'th, 26'th, 27'th April 2021 | Scheduled         |
+| Rocket Software, Pune, India | Eclipse RCP, Plug-in development, RAP, and E4 introduction                         | 5'th - 8'th April 2021                | Completed         |
+| CitiusTech, Mumbai, India    | Eclipse RCP, Plug-in development                                                   | 5'th - 7'th March 2020                | Completed         |
+| ~~Altran, Bangalore, India~~ | ~~Eclipse RCP, Plug-in development, Eclipse Modeling Framework (EMF), and Sirius~~ | ~~19'th - 22'nd March 2020~~          | ~~Cancelled~~     |
+| Virtual                      | Eclipse RCP, Plug-in development, Eclipse Modeling Framework (EMF), Xtext          | 13/06/2020 - 25/07/2020               | Completed         |
 
 ### Contact
 
